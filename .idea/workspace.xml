@@ -2,25 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c20d251-e8b9-4f4c-88b7-d253f613b523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_05_27_2020/MethodOverloading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_05_27_2020/MethodOverriding.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_05_27_2020/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Replits/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Replits/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Replits/Main1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Replits/OOP_207.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Replits/Pluralizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Replits/UAGStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_27_2020/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_27_2020/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_27_2020/MethodOverriding2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/OOP_207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Pluralizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/UAGStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Browsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tatis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day44_Exceptions/ExceptionHandling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/ExceptionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Finally_Block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Multi_CatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day44_Exceptions/Practice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day44_Exceptions/Try_CatchBlock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day44_Exceptions/Try_CatchBlock2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day44_Exceptions/Try_CatchBlocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day44_Exceptions/Try_CatchBlocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,19 +37,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Unchecked.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="37" selection-start-line="13" selection-start-column="7" selection-end-line="14" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -63,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="552">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,11 +57,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="299">
+              <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/ExceptionHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="37" column="111" selection-start-line="37" selection-start-column="111" selection-end-line="37" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Multi_CatchBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/ExceptionPractice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Finally_Block.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Practice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Practice2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -110,12 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Z_Java_Tekrar/Inheritance/Constructor.java" />
-        <option value="$PROJECT_DIR$/src/Z_Java_Tekrar/Inheritance/Practice2.java" />
-        <option value="$PROJECT_DIR$/src/day42_Inheritance/InheritanceReview.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/PetObject.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Cat.java" />
-        <option value="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Bunny.java" />
         <option value="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Dog.java" />
         <option value="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Pet.java" />
         <option value="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/House.java" />
@@ -161,6 +194,12 @@
         <option value="$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java" />
         <option value="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java" />
         <option value="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java" />
+        <option value="$PROJECT_DIR$/src/day44_Exceptions/ExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/src/day44_Exceptions/Multi_CatchBlock.java" />
+        <option value="$PROJECT_DIR$/src/day44_Exceptions/ExceptionPractice.java" />
+        <option value="$PROJECT_DIR$/src/day44_Exceptions/Finally_Block.java" />
+        <option value="$PROJECT_DIR$/src/day44_Exceptions/Practice.java" />
+        <option value="$PROJECT_DIR$/src/day44_Exceptions/Practice2.java" />
       </list>
     </option>
   </component>
@@ -170,7 +209,9 @@
     <option name="width" value="1183" />
     <option name="height" value="999" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="false" />
@@ -204,7 +245,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590681431170" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590694410757" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -231,9 +272,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Try_CatchBlock2">
-    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.CheckedException" />
+  <component name="RunManager" selected="Application.Practice2">
+    <configuration name="ExceptionPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.ExceptionPractice" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -245,8 +286,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Test" />
+    <configuration name="Finally_Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Finally_Block" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -258,8 +299,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try_CatchBlock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Try_CatchBlock2" />
+    <configuration name="Multi_CatchBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Multi_CatchBlock" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -271,8 +312,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Try_CatchBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Try_CatchBlocks" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Practice" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -284,8 +325,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Unchecked" />
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Practice2" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -299,11 +340,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Try_CatchBlock2" />
-        <item itemvalue="Application.Try_CatchBlocks" />
-        <item itemvalue="Application.Unchecked" />
-        <item itemvalue="Application.CheckedException" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Practice2" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.Finally_Block" />
+        <item itemvalue="Application.ExceptionPractice" />
+        <item itemvalue="Application.Multi_CatchBlock" />
       </list>
     </recent_temporary>
   </component>
@@ -453,58 +494,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day42_Inheritance/TestData2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="89" selection-start-line="9" selection-start-column="89" selection-end-line="9" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day42_Inheritance/AccessModifiers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day42_Inheritance/TestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day42_Inheritance/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day42_Inheritance/Constructor001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="112" selection-start-line="19" selection-start-column="112" selection-end-line="19" selection-end-column="112" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day42_Inheritance/Constructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day42_Inheritance/Constructor2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -887,23 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Unchecked.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -918,10 +890,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java">
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/ExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="37" column="111" selection-start-line="37" selection-start-column="111" selection-end-line="37" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Multi_CatchBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/ExceptionPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Finally_Block.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day44_Exceptions/Practice2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

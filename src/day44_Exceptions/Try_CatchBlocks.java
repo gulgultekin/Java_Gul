@@ -21,6 +21,8 @@ public class Try_CatchBlocks {
 
             System.out.println("Something went wrong");//if try block can not fix the exception
                                                         // catch block handeled the exception
+
+            // uncheck exception catch blockta duzeliyor
         }
 
         System.out.println("Test completed");

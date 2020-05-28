@@ -4,16 +4,21 @@ public class Try_CatchBlock2 {
 
     public static void main(String[] args) {
 
-        int[]arr ={1,2,3};
+        System.out.println("Hello");
 
         try{
-            System.out.println(arr[10]);
-            System.out.println("try block");
+            Thread.sleep(2000); //checked exception
+           //try block handeled the exception
+            System.out.println("Try block");
+
+            // check exception catch blockta duzeliyor
 
         }catch(Exception e){
+            //InterruptedException bu da yazilabilir
+
             System.out.println("Catch block");
         }
 
-
+        System.out.println("World");
     }
 }
