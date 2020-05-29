@@ -25,7 +25,7 @@ public class Constructor2 extends Test {
     public static void main(String[] args) {
 
         Constructor2 obj = new Constructor2();//C A  B
-       // Test obj2 = new Test(12);// A
+     // Test obj2 = new Test(12);//  C A
 
     }
 }

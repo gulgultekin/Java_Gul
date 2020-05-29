@@ -21,10 +21,11 @@ public class Constructor extends test {
 
         Constructor obje = new Constructor();
 
-        test obj1 = new test(); //super class' default constructor--> super class constructori old icin sadece onu print edr
+        test obje1 = new test(); //super class' default constructor--> super class constructori old icin sadece onu print edr
 
-        Constructor obj2 = new Constructor();//super class' default constructor -->sub class constructori old icin ikisini de print edr
+        Constructor obje2 = new Constructor();//super class' default constructor -->sub class constructori old icin ikisini de print edr
                                              //sub class' default constructor
+
 
     }
 
