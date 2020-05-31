@@ -2,7 +2,7 @@ package day45_Exception;
 
 import java.io.IOException;
 
-public class ThrowKeyword_Disadvantage {
+public class ThrowsKeyword_Disadvantage {
 
     public static void method1()throws IOException,  Exception{ //order-->child than parent exception,
                              // birden fazla exception yazilabiliyor

@@ -1,6 +1,6 @@
 package day45_Exception;
 
-public class ThrowsKeyword {
+public class ThrowsKeyword1 {
 
     public static void sleep1() {
         try {

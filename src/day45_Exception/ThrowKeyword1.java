@@ -3,7 +3,7 @@ package day45_Exception;
 import java.io.IOException;
 import java.util.NoSuchElementException;
 
-public class ThrowKeyword {
+public class ThrowKeyword1 {
     //chrome,firefox,opera...
 
     public static void main(String[] args) {
