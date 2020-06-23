@@ -2,7 +2,7 @@ package day42_Inheritance.task01;
 
 public class Employee extends Person{
     /*
-    create a sub class of person called Employee
+    create a sub class of person called WarmUp_2_Employee
 				attributes: name, age, gender, Salary, employeeID, jobTitle
 				methods: work, setEmployeeInfo, toString
 				 /*

@@ -12,7 +12,7 @@ public class ThrowKeyword1 {
 
        // throw obj;
 
-       // throw new NoSuchElementException();
+      throw new NoSuchElementException();
 
        // System.out.println();
 

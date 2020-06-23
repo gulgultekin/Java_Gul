@@ -20,9 +20,9 @@ public class Multi_CatchBlock {
         }catch(ArithmeticException e){
             System.out.println("Arithmetic exception");
      // compiler stop after this catch block. alttaki catch block never get executed
-
         }catch(RuntimeException e){ // bu da yakalar ama bir oncekinde problem yakalandi zaten
             System.out.println("Run time exception");
+
 
             // parent catch block must come after  child catch block, once gelirse compiler error verir
 

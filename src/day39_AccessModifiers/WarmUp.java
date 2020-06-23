@@ -16,7 +16,7 @@ public class WarmUp {
 				add toString method
 
 
-	2. create a class called Employee:
+	2. create a class called WarmUp_2_Employee:
 				instance variables:
 						name, jobTitle, ID, salary
 				add a constructor that can initialize name of employee

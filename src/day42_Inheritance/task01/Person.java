@@ -6,7 +6,7 @@ public class Person {
 		create a class called Person
 				attributes:  name, age, gender
 				methods: eat, walk, sleep, setPersonInfo
-		create a sub class of person called Employee
+		create a sub class of person called WarmUp_2_Employee
 				attributes: name, age, gender, Salary, employeeID, jobTitle
 				methods: work, setEmployeeInfo, toString
 		create a subclass of Person called Student

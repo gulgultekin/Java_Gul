@@ -2,7 +2,7 @@ package day41_Inheritance.Task01;
 
 public class Employee {
     /*
-    creata  class called Employee:
+    creata  class called WarmUp_2_Employee:
 			variables: salary, name, id, jobTitle, gender
 			Actions: toString
 	create sub class of employee name it Tester:

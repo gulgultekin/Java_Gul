@@ -25,9 +25,9 @@ public class Company {
     public static void main(String[] args) {
      // company has a employee --> has a relationship
 
-//        Employee emp1 = new Employee();
-//        Employee emp2 = new Employee();
-//        Employee emp3 = new Employee();
+//        WarmUp_2_Employee emp1 = new WarmUp_2_Employee();
+//        WarmUp_2_Employee emp2 = new WarmUp_2_Employee();
+//        WarmUp_2_Employee emp3 = new WarmUp_2_Employee();
 //
 //        emp1.setEmployeeInfo("Sener",49,'M',100000,12300,"developer");
 //        emp2.setEmployeeInfo("Gul",46,'F',90000,30077,"Sdet");
