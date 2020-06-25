@@ -2,7 +2,7 @@ package day41_Inheritance;
 
 public class BankAccount {
      /*
-    WarmUp tasks:
+    WarmUp_Collection tasks:
     create costum class called BankAccount for Bank of America' bank accounts:
             public variables:  bankName, firstName, lastName
             private variables: accountHolder, accountNumber, balance

@@ -34,7 +34,7 @@ public class ArrayList_Methods {
         System.out.println("===============================");
 
 
-//Arrays.equal(arr1, arr2)
+//Arrays_Pract.equal(arr1, arr2)
 
         int[] arr1 = {1,2,3};
         int[] arr2 = {3,2,1};

@@ -32,7 +32,7 @@ the ArrayList that gets returned should be (4,3,4,3,14), with 14 being the sum o
 
     static ArrayList<Integer> appendPosSum(ArrayList<Integer> list){
 
-       //list.addAll(Arrays.asList(4,-6,3,-8,0,4,3));
+       //list.addAll(Arrays_Pract.asList(4,-6,3,-8,0,4,3));
         Predicate<Integer> positive = p->p<0;
         list.removeIf(positive);
         Integer sum=0;

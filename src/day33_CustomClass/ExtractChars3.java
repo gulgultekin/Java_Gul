@@ -13,14 +13,14 @@ and stores them into seperate ArrayLists of Character:
      */
         String str= "ABCD123$%#@&456EFG!";
           char[] arr = str.toCharArray();
-       // ArrayList<Character> letters =new ArrayList<>(Arrays.asList(arr)); hata veriyor -->Character[] ch ye cevirmemiz lazim
+       // ArrayList<Character> letters =new ArrayList<>(Arrays_Pract.asList(arr)); hata veriyor -->Character[] ch ye cevirmemiz lazim
 
         Character[] ch = new Character[arr.length];
 
         for(int i=0; i< arr.length; i++){
             ch[i] = arr[i]; // arr daki karakterleri ch a atiyotuz
         }
-       // System.out.println(Arrays.asList(ch));
+       // System.out.println(Arrays_Pract.asList(ch));
 
         ArrayList<Character> letters =new ArrayList<>(Arrays.asList(ch));
         letters.removeIf(p->!Character.isLetter(p));       // letter olmayanlari remove yap

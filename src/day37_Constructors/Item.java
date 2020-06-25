@@ -52,7 +52,7 @@ public class Item {
 //        Item item4 = new Item("ekmek",3,2);
 //        Item item5 = new Item("Cay",6,1);
 //
-//        ArrayList<Item> list =new ArrayList<>(Arrays.asList(item1,item2,item3,item4,item5));
+//        ArrayList<Item> list =new ArrayList<>(Arrays_Pract.asList(item1,item2,item3,item4,item5));
 //        for(Item each: list){
 //            System.out.println(each.name+" "+each.calcCost());
 //        }

@@ -17,6 +17,8 @@ public class Try_CatchBlock2 {
             //InterruptedException bu da yazilabilir
 
             System.out.println("Catch block");
+        }finally{
+
         }
 
         System.out.println("World");

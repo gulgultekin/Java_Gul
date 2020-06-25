@@ -22,7 +22,7 @@ public class Bulk_ContainsAll {
 //        System.out.println(result);
 
 
-        //yukaridakinin yerine containsAll ile hepsini sorgulayabilirsin list1.containsAll( Arrays.asList(10,20,..)
+        //yukaridakinin yerine containsAll ile hepsini sorgulayabilirsin list1.containsAll( Arrays_Pract.asList(10,20,..)
         boolean result2 = list1.containsAll( Arrays.asList(10,20,40)); // buraya butun hepsini girebilirsin
         System.out.println(result2);
 

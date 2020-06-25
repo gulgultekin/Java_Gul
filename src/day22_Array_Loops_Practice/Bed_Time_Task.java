@@ -11,7 +11,7 @@ public class Bed_Time_Task {
             output: true
             if str1 ="abcd";  str2 ="abc";
             output: false
-            Hint: you will need array and Arrays' methods*/
+            Hint: you will need array and Arrays_Pract' methods*/
 
        String str1 = "aabbbc";
        String str2 ="cab";

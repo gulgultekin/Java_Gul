@@ -8,7 +8,7 @@ public class WarmUp_Frequency {
             Ex:
                 frequency("AAA", 'A') ==>  3
                 frequency("ABAB", 'B') ==> 2
-            Note: MUST use Arrays and for each loop
+            Note: MUST use Arrays_Pract and for each loop
     2. use the above method to create another called uniques that accepts a string paramter and returns
     it's unique characters as String
             Ex: uniques("ABBC");      ==> "AC"

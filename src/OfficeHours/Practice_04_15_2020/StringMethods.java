@@ -22,7 +22,7 @@ public class StringMethods {
       /*  str1 = "abc", str2 = "cab";
       once 1--array olustur
            2--sort
-           3--System.out.println(Arrays.equals(ch2,ch3));
+           3--System.out.println(Arrays_Pract.equals(ch2,ch3));
 
        */
 

@@ -6,7 +6,7 @@ import java.util.Queue;
 public class Q {
     public static void main(String[] args) {
 
-        Queue<String> q = new PriorityQueue<>();//first in first out
+        Queue<String> q = new PriorityQueue<>();//first in first out --> FIFO
 
         q.add("A");
         q.add("B");

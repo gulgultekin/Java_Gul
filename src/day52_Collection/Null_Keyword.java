@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Null_Keyword {
 
-    static String str; //null
+    static String str; //== null  --> this variable does not reference to any object
     static String str2 = new String("Cybertek");
 
     // static ArrayList<Integer> list1 ;
@@ -17,7 +17,7 @@ public class Null_Keyword {
 
         System.out.println(str2.charAt(0)); //C
 
-        //System.out.println(list1.get(1));//NullPointerException--> does not referto any object
+        //System.out.println(list1.get(1));//NullPointerException--> does not refer to any object
 
        // WebElement element = null;
         String str2 = null;
@@ -46,7 +46,7 @@ public class Null_Keyword {
         System.out.println("****************************");
 
 
-        String[]arr = {null,"Cybertek",null};
+        String[]arr = {null,"Cybertek",null}; // 1 object created in index1
 
        // arr[2].toUpperCase(); //NullPointerException  arr[2]--> null -->obje yok demek yani
 
@@ -54,7 +54,8 @@ public class Null_Keyword {
 
         String name1 = "gul".toUpperCase();
         System.out.println(name1); //GUL
-        name1 = null;
+
+        name1 = null;//it does not refer to object (reinitialize yaptik --null)
         name1 = name1.toLowerCase();
         System.out.println(name1); //NullPointerException
 

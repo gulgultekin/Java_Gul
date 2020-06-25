@@ -49,11 +49,11 @@ isAnagram("java", "cava") ==> false
 //        char[] ch1 = word1.toCharArray();
 //        char[] ch2 = word2.toCharArray();
 //
-//        Arrays.sort(ch1);
-//        Arrays.sort(ch2);
+//        Arrays_Pract.sort(ch1);
+//        Arrays_Pract.sort(ch2);
 //
 //        boolean result;
-//        if(Arrays.equals(ch1,ch2)) {
+//        if(Arrays_Pract.equals(ch1,ch2)) {
 //            result = true;
 //        }else {
 //            result = false;

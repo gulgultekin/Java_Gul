@@ -20,7 +20,7 @@ public class Nested_ForEach_Practice {
         int sumOfEven=0;
 
         for( int[] each1Darray : numbers){
-         //   System.out.println(Arrays.toString(each1Darray));
+         //   System.out.println(Arrays_Pract.toString(each1Darray));
 
             for(int eachElement : each1Darray){
 

@@ -34,7 +34,7 @@ public class nested_ForEach {
 
         for(char[] each1DArray : ch2D){
 
-           // System.out.println(Arrays.toString(each1DArray));  [A, B]  [C, D]
+           // System.out.println(Arrays_Pract.toString(each1DArray));  [A, B]  [C, D]
             for(char eachElement : each1DArray){
                 System.out.println(eachElement);
 

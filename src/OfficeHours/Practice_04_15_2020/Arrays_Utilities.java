@@ -5,11 +5,11 @@ import java.util.Arrays;
 public class Arrays_Utilities {
     public static void main(String[] args) {
         /*
-        Arrays.sort(arr):
-        Arrays.equal(arr1,arr2):
-        Arrays.toString():
+        Arrays_Pract.sort(arr):
+        Arrays_Pract.equal(arr1,arr2):
+        Arrays_Pract.toString():
 
-        Arrays.deepToString()
+        Arrays_Pract.deepToString()
          */
 
         int[] arr ={9,6,1,5,44,22};

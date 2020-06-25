@@ -5,12 +5,12 @@ import java.util.*;
 public class Lists {
     public static void main(String[] args) {
 
-      //  List<String> list0 = new List<>();
+      //  List<String> list0 = new List<>(); //list interface old icin obje olusturulamaz
 
-        List<Integer> list1 = new ArrayList<>();
-        list1.add(1);
+        List<Integer> list1 = new ArrayList<>(); //arraylist Listin childi old icin obje olusturulur
+        list1.add(1);          //ArrayList class implementing List so obje can be created
 
-        List<Integer> list2 = new LinkedList<>();
+        List<Integer> list2 = new LinkedList<>(); //LinkedList Listin childi old icin obje olusturulur
         list2.add(10);
         list2.remove(0);
 
@@ -22,11 +22,11 @@ public class Lists {
 
 
 
-        Vector<Integer> vector = new Vector<>();
+        Vector<Integer> vector = new Vector<>();  //synchronized
         vector.add(10);
 
-        Stack<Integer> stack = new Stack<>();//stack inherit from vector subclass
-        stack.add(10);
+        Stack<Integer> stack = new Stack<>();//stack inherit from--> vector, stack subclass of vector
+        stack.add(10);   //synchronized
 
 
         System.out.println("*****************************");
@@ -34,15 +34,17 @@ public class Lists {
         //if last in first out---> stack
 
         Stack<String> names = new Stack<>();
-              names.add("Sha");
+
+        names.add("Sha");
         names.add("Gul");
         names.add("Yusuf");
         names.add("Beyza");
         names.add("Sener");
+
         System.out.println(names);//[Sha, Gul, Yusuf, Beyza, Sener]
 
-       String s1 =  names.pop(); //sener son ekleneni return yapar
-        System.out.println(s1);
+       String s1 =  names.pop(); //sener   son ekleneni  remove yapar
+        System.out.println(s1); //sener
 
         System.out.println(names); // son ekleneni cikarip print yapiyor //[Sha, Gul, Yusuf, Beyza]
 

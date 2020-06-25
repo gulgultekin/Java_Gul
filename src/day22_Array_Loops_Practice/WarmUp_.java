@@ -29,7 +29,7 @@ public class WarmUp_ {
 
             reverse[num.length-1-i] = num[i];
         }
-        System.out.println(Arrays.toString(reverse));
+        System.out.println(Arrays_Pract.toString(reverse));
          */
 
 

@@ -17,7 +17,7 @@ public class Bulk_AddAll {
 //        list1.add(35);
 //        list1.add(200); boyle tek tek add yapmak yerine collectionType ile addAll yapilir
 
-       // list1.addAll(Arrays.asList(30,20,40,50,45,35,200)); yada daha kisa
+       // list1.addAll(Arrays_Pract.asList(30,20,40,50,45,35,200)); yada daha kisa
 
         //int[]arr1={30,20,40,50,45,35,200};// collection type does not support primitive yani(int..)
         Integer[] arr1 = {30,20,40,50,45,35,200}; //old icin  int[] arr1  yazamiyoruz  Integer[] arr1 kabul ediyor

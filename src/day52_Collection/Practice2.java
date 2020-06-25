@@ -21,8 +21,8 @@ public class Practice2 {
         String[] arr1 = str1.split("");
         String[] arr2 = str2.split("");
 
-        TreeSet<String> t1 = new TreeSet<>(Arrays.asList(arr1));
-        TreeSet<String> t2 = new TreeSet<>(Arrays.asList(arr2));
+        TreeSet<String> t1 = new TreeSet<>(Arrays_Pract.asList(arr1));
+        TreeSet<String> t2 = new TreeSet<>(Arrays_Pract.asList(arr2));
 
         System.out.println(t1); //[a, b]
         System.out.println(t2); //[a, b]

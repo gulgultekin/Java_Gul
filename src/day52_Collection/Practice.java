@@ -16,19 +16,25 @@ public class Practice {
      */
     public static void main(String[] args) {
 
+                    //SHORTEST WAY
+
         String str = "ABABABCDEF";//["A","B","C","D","E","F"]
         String[]arr = str.split("");
+
+       // System.out.println(Arrays_Pract.toString(arr)); //[A, B, A, B, A, B, C, D, E, F]
+
         str = new LinkedHashSet<>(Arrays.asList(arr)).toString().replace(",","");
         System.out.println(str);
 
         // bu da asagidakiyle ayni wihout loop
 
+              //LONGER WAY
 /*
         String str = "ABABABCDEF";//["A","B","C","D","E","F"]
         String[]arr = str.split("");
         str = "";
 
-        for(String each: new LinkedHashSet<>(Arrays.asList(arr))  ){
+        for(String each: new LinkedHashSet<>(Arrays_Pract.asList(arr))  ){
             str += each;
         }
 
@@ -38,13 +44,13 @@ public class Practice {
         //asagidakiyle ayni daha kisa  variable initiat yapmadan
 
 
-
+               //LONGEST WAY
 /*
         String str = "ABABABCDEF";//["A","B","C","D","E","F"]
        String[]arr = str.split("");
-       // System.out.println(Arrays.toString(arr)); //[A, B, A, B, A, B, C, D, E, F]
+       // System.out.println(Arrays_Pract.toString(arr)); //[A, B, A, B, A, B, C, D, E, F]
 
-        LinkedHashSet<String>ls = new LinkedHashSet<>(Arrays.asList(arr));
+        LinkedHashSet<String>ls = new LinkedHashSet<>(Arrays_Pract.asList(arr));
         System.out.println(ls); //[A, B, C, D, E, F] removed duplicates and sorted--> linked hashset-- not string
 
         String result = "";// string olarak sonuc almak icin

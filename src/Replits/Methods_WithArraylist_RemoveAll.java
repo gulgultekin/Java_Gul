@@ -14,7 +14,7 @@ This method should go through every element of wordList and remove every instanc
 
 Example:
 
-ArrayList<String> wordList = new ArrayList<String>(Arrays.asList("hi","hey","hi","yo"));
+ArrayList<String> wordList = new ArrayList<String>(Arrays_Pract.asList("hi","hey","hi","yo"));
 
 removeAll(wordList,"hi");
 

@@ -1,6 +1,6 @@
 package day37_Constructors;
 
-//import java.util.Arrays; // only imports Arrays class from java util
+//import java.util.Arrays_Pract; // only imports Arrays_Pract class from java util
 import java.util.*; // imports every class from java util
 
 //import static day37_Constructors.Data.staticVariable;

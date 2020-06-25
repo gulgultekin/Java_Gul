@@ -39,7 +39,7 @@ public class SingleD_Array {
         reverse[2] = names[0];
 
 
-        System.out.println(Arrays.toString(reverse)); // [Lisa, Aaron, John]
+        System.out.println(Arrays_Pract.toString(reverse)); // [Lisa, Aaron, John]
       */
       /*
         int k = names.length-1;

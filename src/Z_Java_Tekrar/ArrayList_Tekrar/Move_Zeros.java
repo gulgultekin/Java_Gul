@@ -21,7 +21,7 @@ public class Move_Zeros {
 //             count++;
 //          }
 //      }
-//      list.removeAll(Arrays.asList(0));
+//      list.removeAll(Arrays_Pract.asList(0));
 //      System.out.println(list);
 //      for(int i=0; i<count; i++){
 //          list.add(0);

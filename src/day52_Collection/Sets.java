@@ -16,7 +16,7 @@ public class Sets {
         names.add("Gul");
 
         System.out.println(names);//[Zuura, Yusuf, Beyza, Gul]
-        //duplicatesleri almiyor
+        //Set duplicatesleri almiyor
 
 
         Set<String> names2 = new LinkedHashSet<>();
@@ -29,8 +29,8 @@ public class Sets {
         names2.add("Gul");
 
         System.out.println(names2); //[Gul, Beyza, Zuura, Yusuf]
-        //duplicateleri yine remove yapiyor ma girilis sirasina gore print yapiyor
-                                             //insertion order
+        //duplicateleri yine remove yapiyor ama girilis sirasina gore print yapiyor
+                                             //keeps the insertion order as it is
 
         System.out.println("*********************************");
 
@@ -38,13 +38,19 @@ public class Sets {
 
         LinkedHashSet<String> set1 =  new LinkedHashSet<>(Arrays.asList(arr));
 
-        System.out.println(set1); //[A, C, B]
+        HashSet<String> set2 =  new HashSet<>(Arrays.asList(arr));
+
+        System.out.println(set1); //[A, C, B]  //keeps the insertion order as it is
+        System.out.println(set2); //[A, B, C]  //DOES NOT keeps the insertion order as it is
 
        // System.out.println(set1.get(1)); // set does not have index number--> bu yuzden hata veriyor
 
+
         System.out.println("************TREESET***********************");
 
+
         Set<Integer> numbers = new TreeSet<>();
+
         numbers.addAll(Arrays.asList(10,2,3,3,5,5,7,9,2,10,9,6));//removes duplicates and sort
 
         System.out.println(numbers); //[2, 3, 5, 6, 7, 9, 10] --> removes duplicates and sort

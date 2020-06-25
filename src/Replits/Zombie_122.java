@@ -27,7 +27,7 @@ Below expression will print array in this format:
 [3, 6, 0, 4, 3, 2, 7, 1]
 
 Code:
-System.out.println(Arrays.toString(inhabitants)));
+System.out.println(Arrays_Pract.toString(inhabitants)));
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
