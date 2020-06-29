@@ -14,8 +14,8 @@ public class Iterating_Collection {
                 list.remove(i);
             }
         }
-        System.out.println(list); //[1, 2, 3, 4, 4, 5, 6, 6, 5] sadece duplicate olanlari remove yapti, butun objeyi degil
-
+        System.out.println(list); //[1, 2, 3, 4, 4, 5, 6, 6, 5] sadece duplicate value olanlari remove yapti, butun objeyi degil
+                          //hala 1,2,3 duruyor
 
         System.out.println("*****************************************************");
 
@@ -33,12 +33,14 @@ public class Iterating_Collection {
 
         ArrayList<Integer>list3 = new ArrayList<>(Arrays.asList(1,1,2,2,3,3,4,4,5,6,6,5));
 
-        Iterator<Integer> it  = list3.iterator();
+        Iterator<Integer> it  = list3.iterator(); //return  Iterator Interface
 
        // System.out.println(it.hasNext()); //true    no more element olana kadar true
-      // System.out.println(it.next()); //1
+        //System.out.println(it.next()); //1  // hasNext() methodu false ise no such element exception verir
+
 
         while(it.hasNext()){ //when there is no-more element olunca stop yapacak
+        // it.hasNext() methodu while disinda yazarsan ilk elemani skip yapmis oluyor. O yuzden loop icinde yazmak gerekiyor
           if( it.next() < 4){
               it.remove();
           }
@@ -60,6 +62,7 @@ public class Iterating_Collection {
             int num = I.next();
 
             if(num < 4){
+           //if(I.next() < 4){// direk bu sekilde de yazilabilir
                 I.remove();
             }
 

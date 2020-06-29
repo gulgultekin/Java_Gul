@@ -13,6 +13,7 @@ public class WarmUp_Collection {
 			Set: does not accepts duplicates, does NOT hove index
 			Queue: Accepts duplicates, does NOT hove index, FIFO(first in first out)
 	4. how to achieve thread safety
+	    with synchronized keyword ile
      */
     /*
     access-modifier   specifier   return-type   methodName(Parameter)
@@ -32,7 +33,9 @@ public class WarmUp_Collection {
         //1. write a program that remove the duplicates from an array of String
 
         String[] arr = {"E","B","A","D","D","C","A"};//EBADC
-        LinkedHashSet<String>st = new LinkedHashSet<>(Arrays.asList(arr));
+        LinkedHashSet<String>st = new LinkedHashSet<>(Arrays.asList(arr));// String old icin convert yapabildik,
+                      // primitive olsaydi yapamazdik, sadece object type olanlar covert edilir.Collectiona atilir.
+
 
         // TreeSet<String>st = new TreeSet<>(Arrays.asList(arr));//[A, B, C, D, E]
        //treeset ile yapsaydik sort da yapacakti
@@ -42,10 +45,10 @@ public class WarmUp_Collection {
            st.add(each);
        }       */
 
-        System.out.println(st);
+        System.out.println(st);//[E, B, A, D, C]
 
         ArrayList<String> arrayList = new ArrayList<>(Arrays.asList("E","B","A","D","D","C","A"));
-        LinkedHashSet<String>st2 = new LinkedHashSet<>(arrayList);
+        LinkedHashSet<String>st2 = new LinkedHashSet<>(arrayList); //arraylist old icin direk yazilabiliyor
 
         System.out.println(st2);
 

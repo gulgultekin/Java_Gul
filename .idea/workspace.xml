@@ -2,50 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c20d251-e8b9-4f4c-88b7-d253f613b523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_06_17_2020/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_06_17_2020/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_06_17_2020/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_06_17_2020/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_06_17_2020/Test_Try_Catch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Z_Java_Tekrar/Arrays_Pract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterable_Maps/WarmUp_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Tekrar/OOP/IteretaorPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Collection/Collections_Ozet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collections2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day44_Exceptions/Try_CatchBlock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day44_Exceptions/Try_CatchBlock2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Collections_Utility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Collections_Utility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Lists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Null_Keyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Null_Keyword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Sets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day52_Collection/Sets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_04_15_2020/Arrays_Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_15_2020/Arrays_Utilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_04_15_2020/SingleD_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_15_2020/SingleD_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/Practice_04_15_2020/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_15_2020/StringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/ArrayList_AspendPosSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/ArrayList_AspendPosSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Methods_195.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Methods_195.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Methods_WithArraylist_RemoveAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Methods_WithArraylist_RemoveAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Zombie_122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Zombie_122.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Z_Java_Tekrar/ArrayList_Tekrar/Move_Zeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Tekrar/ArrayList_Tekrar/Move_Zeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/Bed_Time_Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/Bed_Time_Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/Nested_ForEach_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/Nested_ForEach_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/WarmUp_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/WarmUp_.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/nested_ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day22_Array_Loops_Practice/nested_ForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_Methods_Overloading/WarmUp_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_Methods_Overloading/WarmUp_Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_Methods_Overloading/WarmUp_Frequency_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_Methods_Overloading/WarmUp_Frequency_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31_BulkOperations/ArrayList_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_AddAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_AddAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_ContainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31_BulkOperations/Bulk_ContainsAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/ImportStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/ImportStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day37_Constructors/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day37_Constructors/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Collections_Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Collections_Utility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Null_Keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Null_Keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Q.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Q.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day52_Collection/Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collection/Sets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day53_Iterable_Maps/Iterating_Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day53_Iterable_Maps/Iterating_Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day53_Iterable_Maps/WarmUp_Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day53_Iterable_Maps/WarmUp_Collection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day53_Iterable_Maps/WarmUp_Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day53_Iterable_Maps/WarmUp_Collection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,10 +38,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Z_Java_Tekrar/HaftaSonu_Calisma/map.java">
+        <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/WarmUp_Collection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            <state relative-caret-position="1150">
+              <caret line="50" column="107" selection-start-line="50" selection-start-column="107" selection-end-line="50" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="17" selection-start-line="16" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -86,46 +59,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfficeHours/Practice_06_17_2020/Animal.java">
+        <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collections2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="207">
+              <caret line="9" column="89" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="89" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OfficeHours/Practice_06_17_2020/Dog.java">
+        <entry file="file://$PROJECT_DIR$/src/Z_Java_Tekrar/OOP/IteretaorPractice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Z_Java_Tekrar/Arrays_Pract.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/WarmUp_Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-97">
-              <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+            <state relative-caret-position="230">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,8 +82,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day52_Collection/Null_Keyword.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
+            <state relative-caret-position="442">
+              <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day52_Collection/Collections_Utility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-184">
+              <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day52_Collection/Lists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-713">
+              <caret line="18" column="57" lean-forward="true" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day52_Collection/Practice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day52_Collection/Collections_Ozet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -169,9 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day50_/Task_1/onlineEducation.java" />
-        <option value="$PROJECT_DIR$/src/day50_/Task_2/Task2.java" />
-        <option value="$PROJECT_DIR$/src/day50_/Task_2/ScrumTeam.java" />
         <option value="$PROJECT_DIR$/src/day50_/Task_2/WorkRemotely.java" />
         <option value="$PROJECT_DIR$/src/day50_/Task_2/Tester.java" />
         <option value="$PROJECT_DIR$/src/day50_/Task_2/Developer.java" />
@@ -204,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/day52_Collection/Lists.java" />
         <option value="$PROJECT_DIR$/src/day52_Collection/Q.java" />
         <option value="$PROJECT_DIR$/src/day52_Collection/Sets.java" />
-        <option value="$PROJECT_DIR$/src/day52_Collection/Null_Keyword.java" />
         <option value="$PROJECT_DIR$/src/day52_Collection/Collections_Utility.java" />
         <option value="$PROJECT_DIR$/src/day52_Collection/Practice.java" />
         <option value="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlock2.java" />
@@ -220,6 +201,10 @@
         <option value="$PROJECT_DIR$/src/day53_Iterator_Maps/WarmUp_Collection.java" />
         <option value="$PROJECT_DIR$/src/day53_Iterable_Maps/WarmUp_Collection.java" />
         <option value="$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collection.java" />
+        <option value="$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collections2.java" />
+        <option value="$PROJECT_DIR$/src/Z_Java_Tekrar/OOP/IteretaorPractice.java" />
+        <option value="$PROJECT_DIR$/src/day52_Collection/Null_Keyword.java" />
+        <option value="$PROJECT_DIR$/src/day52_Collection/Collections_Ozet.java" />
       </list>
     </option>
   </component>
@@ -239,6 +224,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,6 +242,12 @@
               <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day52_Collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day53_Iterable_Maps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,16 +256,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Z_Java_Tekrar" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Z_Java_Tekrar" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593099440173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593437415309" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -302,33 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Iterating_Collection">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_06_17_2020.Anagram" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_06_17_2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arrays_Pract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Z_Java_Tekrar.Arrays_Pract" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Z_Java_Tekrar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lists">
     <configuration name="Iterating_Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day53_Iterable_Maps.Iterating_Collection" />
       <module name="Spring2020B18_Java" />
@@ -342,21 +314,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_06_17_2020.Test2" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_06_17_2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WarmUp_Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day53_Iterable_Maps.WarmUp_Collection" />
+    <configuration name="Iterating_Collections2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day53_Iterable_Maps.Iterating_Collections2" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -368,13 +327,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IteretaorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Z_Java_Tekrar.OOP.IteretaorPractice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Z_Java_Tekrar.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collection.Lists" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day52_Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Null_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collection.Null_Keyword" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day52_Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lists" />
+        <item itemvalue="Application.Null_Keyword" />
+        <item itemvalue="Application.IteretaorPractice" />
+        <item itemvalue="Application.Iterating_Collections2" />
         <item itemvalue="Application.Iterating_Collection" />
-        <item itemvalue="Application.WarmUp_Collection" />
-        <item itemvalue="Application.Arrays_Pract" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +402,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1621912" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.1433942" />
       <window_info id="Structure" order="1" sideWeight="0.5018868" side_tool="true" weight="0.16058002" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -413,7 +411,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5018868" side_tool="true" weight="0.16058002" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2173913" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13489409" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3121516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -564,43 +562,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_2_Employee/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_2_Employee/Task2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_2_Employee/Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-          <folding>
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_2_Employee/AppleInc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_1_Student/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -735,13 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day49_Polymorphisim/Polymorphism_Intro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day51_/Circle.java" />
     <entry file="file://$PROJECT_DIR$/src/Z_Java_Tekrar/Polymorphism/Polymorphism_intro.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -858,13 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Lists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="45" column="56" selection-start-line="45" selection-start-column="56" selection-end-line="45" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day52_Collection/Q.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -879,23 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Collections_Utility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28">
-          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Practice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -979,13 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Null_Keyword.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Z_Java_Tekrar/Arrays_Pract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -993,20 +916,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day49_Polymorphisim/Polymorphism_Intro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day49_Polymorphisim/Polymorphism_Intro2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/WarmUp_Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="1150">
+          <caret line="50" column="107" selection-start-line="50" selection-start-column="107" selection-end-line="50" selection-end-column="107" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97">
-          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+        <state relative-caret-position="345">
+          <caret line="17" selection-start-line="16" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day53_Iterable_Maps/Iterating_Collections2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="89" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Z_Java_Tekrar/OOP/IteretaorPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Null_Keyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Collections_Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="55" column="41" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="18" column="57" lean-forward="true" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day52_Collection/Collections_Ozet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
         </state>
       </provider>
     </entry>
