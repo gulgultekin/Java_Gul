@@ -19,7 +19,7 @@ Write four constructors:
 * A secondary constructor that does not have a category, expiration, or stock (stock defaults to 0)
 * A secondary constructor that just does not have stock
 
-2. Test your code with the Main.java class:
+2. CountLetters your code with the Main.java class:
 Create several Z_Java_Tekrar.Methods_Practice.StoreProduct objects using all Constructors and print their fields/states to make sure it's correct.
 
 3. Include the following methods:

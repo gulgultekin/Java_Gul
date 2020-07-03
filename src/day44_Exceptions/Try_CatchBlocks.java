@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class Try_CatchBlocks {
     public static void main(String[] args) {
 
-        System.out.println("Test started");//it prints
+        System.out.println("CountLetters started");//it prints
 
         ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1,2,3,4,5));
 
@@ -25,7 +25,7 @@ public class Try_CatchBlocks {
             // uncheck exception catch blockta duzeliyor
         }
 
-        System.out.println("Test completed");
+        System.out.println("CountLetters completed");
 
     }
 }

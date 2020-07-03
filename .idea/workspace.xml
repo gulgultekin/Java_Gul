@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c20d251-e8b9-4f4c-88b7-d253f613b523" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Browsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/GarbageCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_SetEntries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_setEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Maps_Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/String_VS_Buffer_VS_Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_07_01_2020/CountLetters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Z_Java_Tekrar/Methods_Practice/StoreProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Tekrar/Methods_Practice/StoreProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day17_WhileLoops/BranchingStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day17_WhileLoops/BranchingStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Inheritance/Constructor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/Browsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/Browsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/CheckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/Try_CatchBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day44_Exceptions/Unchecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day44_Exceptions/Unchecked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day47_Abstraction/AbstractClass_vs_NonAbsractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day47_Abstraction/AbstractClass_vs_NonAbsractClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,11 +48,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day54_Maps/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+            <state relative-caret-position="506">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/AnimalObjects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/ReferenceTypeCasting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OfficeHours/Practice_07_01_2020/CountLetters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,8 +114,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,8 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/Cat.java" />
-        <option value="$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/Animal.java" />
         <option value="$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/Dog.java" />
         <option value="$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/AnimalObjects.java" />
         <option value="$PROJECT_DIR$/src/day50_Polymorphism/ReferenceTypeCasting.java" />
@@ -145,6 +185,8 @@
         <option value="$PROJECT_DIR$/src/day54_Maps/Color.java" />
         <option value="$PROJECT_DIR$/src/day54_Maps/Browsers.java" />
         <option value="$PROJECT_DIR$/src/day54_Maps/Test.java" />
+        <option value="$PROJECT_DIR$/src/OfficeHours/Practice_07_01_2020/Test.java" />
+        <option value="$PROJECT_DIR$/src/OfficeHours/Practice_07_01_2020/CountLetters.java" />
       </list>
     </option>
   </component>
@@ -164,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,7 +223,33 @@
               <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day50_Polymorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="day50_Polymorphism" type="462c0819:PsiDirectoryNode" />
+              <item name="Task_3_Animal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="day54_Maps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OfficeHours" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spring2020B18_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OfficeHours" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice_07_01_2020" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Spring2020B18_Java" type="b2602c69:ProjectViewProjectNode" />
@@ -200,11 +269,10 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593459898650" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593737554631" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -234,13 +302,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="GarbageCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Maps.GarbageCollector" />
+  <component name="RunManager" selected="Application.CountLetters">
+    <configuration name="CountLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_07_01_2020.CountLetters" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Maps.*" />
+          <option name="PATTERN" value="OfficeHours.Practice_07_01_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,8 +316,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map_SetEntries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Maps.Map_SetEntries" />
+    <configuration name="GarbageCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.GarbageCollector" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -302,11 +370,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountLetters" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.String_VS_Buffer_VS_Builder" />
         <item itemvalue="Application.GarbageCollector" />
         <item itemvalue="Application.Map_setEntry" />
-        <item itemvalue="Application.Map_SetEntries" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +404,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.14554243" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49811321" visible="true" weight="0.14983888" />
       <window_info id="Structure" order="1" sideWeight="0.5018868" side_tool="true" weight="0.16058002" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -345,12 +413,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.5018868" side_tool="true" weight="0.16058002" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.303233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.303233" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3121516" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.26309922" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2575251" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14604236" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.11928651" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.26309922" />
@@ -496,21 +564,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Encapsulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Inheritance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day51_/Circle.java" />
     <entry file="file://$PROJECT_DIR$/src/Z_Java_Tekrar/Polymorphism/Polymorphism_intro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-184">
@@ -526,16 +579,6 @@
             <element signature="e#391#392#0" expanded="true" />
             <element signature="e#429#430#0" expanded="true" />
             <element signature="e#477#478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/ReferenceTypeCasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -891,6 +934,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day54_Maps/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/AnimalObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/Task_3_Animal/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day54_Maps/Browsers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -898,10 +962,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day54_Maps/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/day50_Polymorphism/ReferenceTypeCasting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="381">
+          <caret line="54" column="45" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OfficeHours/Practice_07_01_2020/CountLetters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -15,7 +15,7 @@ public class BranchingStatement {
             System.out.println(i);
         }
 
-        System.out.println("Test complited");
+        System.out.println("CountLetters complited");
 
 
     }

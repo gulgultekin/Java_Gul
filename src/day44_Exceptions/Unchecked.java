@@ -4,7 +4,7 @@ public class Unchecked {
 
     public static void main(String[] args) {
 
-        System.out.println("Test started");// hepsinden once yazildigi icin print eder sonra hata verir.top to bottom
+        System.out.println("CountLetters started");// hepsinden once yazildigi icin print eder sonra hata verir.top to bottom
 
        // System.out.println(9/0); // ArithmeticException bundan sonraki print yapmasi icin bunun duzeltilmesi lazim
 
@@ -14,7 +14,7 @@ public class Unchecked {
         int[]arr ={1,2,3};
          System.out.println(arr[10]); //ArrayIndexOutOfBoundsException
 
-        System.out.println("Test completed");
+        System.out.println("CountLetters completed");
 
     }
 

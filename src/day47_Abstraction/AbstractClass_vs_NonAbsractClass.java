@@ -31,7 +31,7 @@ abstract class Test2{ // abstract class because has abstract method
     int a=100; //can have ins variable
     static int b =200; //can have static variable
     { //can have ins block
-      //Test2 obj = new Test(); you can not create object from abstract class
+      //Test2 obj = new CountLetters(); you can not create object from abstract class
     }
     static{ //can have static block
 

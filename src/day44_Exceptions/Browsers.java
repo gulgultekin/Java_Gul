@@ -15,7 +15,7 @@ public class Browsers {
     4. create a class called Opera browser
             actions: openBrowser(): opens the Opera browser
                      closeBrowser(): closes the Opera browser
-    5. create a class called Test:
+    5. create a class called CountLetters:
             create an object of each browsers and call the openBrowser & closeBrowser actions
      */
 
